@@ -6,4 +6,8 @@ Made this simple and small as possible, all you need is to have youtube-dl (pip3
 It's meant to be the way it is as it was made as a part for my personal project.
 
 Outputs raw .mp4
+
+
+Hello gitbook guy. Sorry I mistakely clicked wrong button 😅 But yea, it's nonprofit
+
 ![Example](https://i.imgur.com/8Ri40UB.png)
